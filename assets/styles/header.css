@@ -2,7 +2,6 @@
     background: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url('../images/banner.png');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 605px;
     border-bottom: 1px solid var(--text-terc);
 }
 
@@ -10,7 +9,7 @@
     width: 600px;
     margin: auto;
     text-align: center;
-    padding-top: 54px;
+    padding:  56px 0 75px 0;
 }
 
 .banner-content h1 {
