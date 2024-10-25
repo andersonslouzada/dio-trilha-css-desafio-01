@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Varela+Round&display=swap');
 @import url('./header.css');
+@import url('./main.css');
 
 :root {
     --text-gradient: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);

@@ -24,8 +24,9 @@
 }
 
 .banner-content p {
+    width: 510px;
     font-size: 1.5rem;
-    margin: 16px 0 24px;
+    margin: 16px auto 24px;
 }
 
 .banner-content button {
