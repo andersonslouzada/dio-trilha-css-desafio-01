@@ -52,6 +52,7 @@
 
 #professional-challenges {
     text-align: center;
+    margin: 76px auto 91px auto;
 }
 
 #professional-challenges h2 {
@@ -60,12 +61,12 @@
     font-weight: 700;
     text-transform: uppercase;
     color: #33A8DB;
-    margin: 76px auto 32px auto;
+    margin: 0 auto 32px auto;
     letter-spacing: 0.19em;
 }
 
 #professional-challenges p {
     width: 792px;
     font-size: 1.3rem;
-    margin: 40px auto 91px auto;
+    margin: 40px auto 0 auto;
 }
