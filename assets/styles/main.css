@@ -30,3 +30,22 @@
 .module span {
     color: #33A8DB;
 }
+
+#transform-world {
+    height: 363px;
+    background-image: url("../images/woman-code.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-top: solid 1px var(--text-terc);
+    border-bottom: solid 1px var(--text-terc);
+}
+
+#transform-world p {
+    font-weight: 900;
+    font-size: 3.25rem;
+    text-transform: lowercase;
+    max-width: 250px;
+    text-shadow: 3px 2px #33A8DB;
+    padding: 123px;
+}
